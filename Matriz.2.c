@@ -1,7 +1,3 @@
-//faça um algoritmo que preencha uma matriz
-//3x5 com numeros inteiros , calcule e mostre
-//a quantidade de elementos entre 15 e 20
-
 #include <stdio.h>
 int main()
 {
